@@ -1,4 +1,4 @@
-# LLM Two Scribes
+# LLM Divergent Scribes
 
 ## The Idea
 
